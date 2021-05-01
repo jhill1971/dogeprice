@@ -1,1 +1,1 @@
-web: gunicorn main: doge-site
+web: gunicorn main: dogesite
