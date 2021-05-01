@@ -1,1 +1,1 @@
-web: gunicorn main: dogesite
+web: gunicorn main: app
