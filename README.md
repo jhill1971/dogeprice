@@ -1,7 +1,7 @@
 # Cryptocurrency Price Checker
 ## By James Hill
 ## Purpose: 
-## This Python Flask application retrieves the latest price of a specified cryptocurrency from the CoinMarketCap API and displays it on a web page using Flask's templating system.
+## This Python Flask application retrieves the latest price of Dogecoin from the CoinMarketCap API and displays it on a web page using Flask's templating system.
 
 ## Dependencies
 ### Flask: This micro web framework is used to create the web application and serve web pages.
